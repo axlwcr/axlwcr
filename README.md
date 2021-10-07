@@ -1,6 +1,6 @@
 ## 👋Hello! My name is Axl!
 
-//👨‍💻Analysis and systems development! 
+//>👨‍💻Analysis and systems development! 
 
 //>🌍Living in BR/RS! 
 
