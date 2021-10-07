@@ -1,8 +1,8 @@
-## 👤Hello! My name is Axl!
+## 👋Hello! My name is Axl!
 
-</>💻I've been studying systems analysis and development! 
+//👨‍💻Analysis and systems development! 
 
-</>🌍Living in BR/RS-Santo Ângelo! 
+//>🌍Living in BR/RS! 
 
 ## <div align="center">
   <a href="https://github.com/axlwcr">
