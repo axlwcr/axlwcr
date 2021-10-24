@@ -12,7 +12,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlwcr&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
  
- ## <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
